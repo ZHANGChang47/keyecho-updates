@@ -1,0 +1,4 @@
+# Release artifacts are attached to GitHub Releases, never committed here.
+*.exe
+*.blockmap
+latest.yml
